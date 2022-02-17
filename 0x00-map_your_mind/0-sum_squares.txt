@@ -1,0 +1,5 @@
+input: first, second
+square_1 = first**2
+square_2 = second**2
+sum = square_1 + square_2
+
