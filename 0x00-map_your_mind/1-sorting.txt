@@ -1,0 +1,10 @@
+int num_1, num_2, num_3
+read(num_1)
+read(num_2)
+read(num_3)
+table = {num_1, num_2, num_3}
+for i up to 3
+	if num_1>num_2
+		table[i] = num_2
+		table[i+1]= num_1
+							
